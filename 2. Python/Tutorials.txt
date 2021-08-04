@@ -1,0 +1,33 @@
+Python Installation: https://www.youtube.com/watch?v=esVUeSiQfCU&t=8680s
+
+Python Basics: https://www.youtube.com/watch?v=52PaXG6NcS8&t=8230s
+
+Strings And Lists: https://www.youtube.com/watch?v=6asu-zLsIjg&t=7731s
+
+Tuples,Sets,Dictionary Object Basics,Dictionary: https://www.youtube.com/watch?v=B4FmI8T4MiM&t=8607s
+
+Functions: https://www.youtube.com/watch?v=MCuMzSfriKg&t=8344s
+
+Exceptions Handling: https://www.youtube.com/watch?v=11eXOjpcPMM&t=1640s
+
+Working With Databases: https://www.youtube.com/watch?v=xaYuw3wGDhA&t=3484s
+
+Numpy Data Manipulation Part1: https://www.youtube.com/watch?v=rr8TGha9wPc&t=1s
+
+Numpy Data Manipulation Part2: https://www.youtube.com/watch?v=7Qb-YKbLzDk
+
+Matplot Lib: https://www.youtube.com/watch?v=eRYEOR9BO-c&t=7377s
+
+Seaborn, Plotly, Cuflinks: https://www.youtube.com/watch?v=hRiZxvd2wQI&t=5s
+
+OOPS Basic Concepts & Working With FIles: https://www.youtube.com/watch?v=wHJorEzX3Pg&t=9180s
+
+Pandas Intro: https://www.youtube.com/watch?v=SqOIC-KK0I0&t=6s
+
+Descriptive Analysis: https://www.youtube.com/watch?v=XWpG4dzk1KU&t=6s
+
+Pandas Input-Output: https://www.youtube.com/watch?v=pip7sXFeMEU
+
+Pandas Manipulation: https://www.youtube.com/watch?v=as9EEqDxP9Q&t=1s
+
+Pandas Groupby: https://www.youtube.com/watch?v=73zhF1ix-20

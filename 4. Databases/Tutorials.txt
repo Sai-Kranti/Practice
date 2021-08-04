@@ -1,0 +1,5 @@
+MySql And Sqlite: https://www.youtube.com/watch?v=EdyIEMgbci8&t=6436s
+
+Open LinkFlask, App RoutingFlask, URL BuildingFlask And MongoDB: https://www.youtube.com/watch?v=U09KoC3Cbkk
+
+HTTP MethodsFlask, TemplatesFlask, Mongo DB: https://www.youtube.com/watch?v=MQs4jR6WdaQ

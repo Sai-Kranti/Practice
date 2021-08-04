@@ -1,0 +1,11 @@
+Descriptive Statistics: https://www.youtube.com/watch?v=fxVfBOIL2u8&t=4864s
+
+Sample Vs Population Statistics: https://www.youtube.com/watch?v=qs8UVBQWDnI&t=6816s
+
+Random Variables: https://www.youtube.com/watch?v=Wuw9S_bqku0&t=5s
+
+Hypothesis Testing Problems And Binomial Distribution: https://www.youtube.com/watch?v=IuJQwdg_JY4&t=1s
+
+Z-Stats Vs T-Stats, Type 1 Type 2 Error: https://www.youtube.com/watch?v=gT7Fr-BXGxc&t=6983s
+
+Confidence Interval, Central Limit Theoram, Chi Square Test, ANOVA Test, F-Stats: https://www.youtube.com/watch?v=CYIkZrVhTHU&t=4s
